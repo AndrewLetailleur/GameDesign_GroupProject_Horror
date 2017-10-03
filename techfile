@@ -2,6 +2,8 @@ Game Overview
   Game Summary
   Target Audience
   Platform
+    The main platform that we are hoping to develop the prototype of our game for is the PC but if we have the time, we may look at
+    developing the game to play on mobile platforms - Android and iOS. 
   
 Concept Art/Sketches
 
@@ -15,22 +17,26 @@ Information Recources Used
  
 Identification of resources
   HP Computer System at UWS
+   Operating System: Windows 10 Enterprise 64-bit
+   Processors: Intel(R) Xeon(R) CPU E3-1245 v3 
+   CPU: 3.40GHz
+   Memory: 16.0GB RAM
   
   Personal Laptop System - Dell Vostro 3000 series
-  Operating System: Windows 10 Pro 64-bit
-  Processors: Intel(R) Core(™) i3-4005U
-  CPU: 1.70GHz
-  Memory: 4.00GB RAM
+   Operating System: Windows 10 Pro 64-bit
+   Processors: Intel(R) Core(™) i3-4005U
+   CPU: 1.70GHz
+   Memory: 4.00GB RAM
 
   Personal Laptop System - Median Erazer 
-  Operating System:
-  Processors:
-  CPU:
-  Memory:
+   Operating System:
+   Processors:
+   CPU:
+   Memory:
   
   Gimp 
-  Operating System: Windows
-  RAM: minimum of 128MB
+    Operating System: Windows
+    RAM: minimum of 128MB
 
   Unity 2017
   
