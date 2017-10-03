@@ -1,6 +1,9 @@
 Game Overview
   Game Summary
   Target Audience
+    The target audience right now we are aiming to develop for would be 7+ but this might change during the development
+    process to the audience being 13+. 
+    
   Platform
     The main platform that we are hoping to develop the prototype of our game for is the PC but if we have the time, we may look at
     developing the game to play on mobile platforms - Android and iOS. 
@@ -10,7 +13,24 @@ Concept Art/Sketches
 Mood Board
 
 Functional Requirements
+  The prototype must be able to load and fully fun on any platform - PC, Mobile, etc
+  All functions of gameplay must work for the system that prototype is developed for - Arrow Keys/Keyboard/ Mouse for PC, Touch 
+  Screen for Mobile, etc
+  
+  
+  *All audio and assets used that have not been created must be properly sourced to their creators under the UK copyright rules
+    
 NonFunctional Requirements
+  The prototype can be done in either 2-D or 3-D
+  Assets can either be 2-D or 3-D 
+  The prototype can be any genre - Horror, Fantasy, etc
+  The prototype can be any style - RPG, 1st Person Shooter, etc
+  The prototyoe can be created using any game engine available - Unity, Unreal Engine, Gamer Maker, etc.
+ 
+ * Audio must load and play within the game
+  
+ 
+  
 Constraints
 
 Information Recources Used
@@ -34,12 +54,18 @@ Identification of resources
    CPU:
    Memory:
   
-  Gimp 
+  Gimp 2
     Operating System: Windows
     RAM: minimum of 128MB
 
-  Unity 2017
+  Unity 2017 (64 bit)
   
+  Unity 5.2.2f1 (64 bit)
+    Operating System: Windows 7 SP1+, 8, 10, Mac OS x 10.8+
+    GPU: Graphic card with DX9 (shader model 3.0) or DX11 with feature level 9.3 caoabilities.
+    CPU: SSE2 instruction set support.
+    WebGL: Any recent version of FireFox, Chrome, Edge or Safari.
+    
   Unity 5.6.0f3 (64 bit)
   
 Resources
