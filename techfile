@@ -1,8 +1,12 @@
 Game Overview
   Game Summary
   Target Audience
-    The target audience right now we are aiming to develop for would be 7+ but this might change during the development
+   * The target audience right now we are aiming to develop for would be 7+ but this might change during the development
     process to the audience being 13+. 
+   * We are also hoping to target the horror/mystery and puzzle game fans.
+    
+   Genre
+    * We are aiming to create a horror style puzzle game for our prototype.
     
   Platform
     The main platform that we are hoping to develop the prototype of our game for is the PC but if we have the time, we may look at
@@ -16,9 +20,9 @@ Functional Requirements
   The prototype must be able to load and fully fun on any platform - PC, Mobile, etc
   All functions of gameplay must work for the system that prototype is developed for - Arrow Keys/Keyboard/ Mouse for PC, Touch 
   Screen for Mobile, etc
+  Any audio and assets that have not been created by us, must be referenced properly back to their creators and follow under the UK 
+  copyright laws.
   
-  
-  *All audio and assets used that have not been created must be properly sourced to their creators under the UK copyright rules
     
 NonFunctional Requirements
   The prototype can be done in either 2-D or 3-D
@@ -26,12 +30,16 @@ NonFunctional Requirements
   The prototype can be any genre - Horror, Fantasy, etc
   The prototype can be any style - RPG, 1st Person Shooter, etc
   The prototyoe can be created using any game engine available - Unity, Unreal Engine, Gamer Maker, etc.
- 
- * Audio must load and play within the game
-  
- 
+  All audio used within the prototype must load and play within the game.
   
 Constraints
+  Time constraints - may not be able to implement all the aspects we want to the prototype.
+  Computer system(s) may crash - lose any unsaved work or result in files coming corrupted.
+  Games files end up corrupted or not compatible with other versions of Unity - save spare copies of game files to other sources -
+  such as other computer system, usb drives and have one system with one version of Unity and another with the newer version
+  as backup.
+  Document files end up corrupted - save updated spare copies to multiple platforms such as e-mail, GitHub, etc
+  
 
 Information Recources Used
  
