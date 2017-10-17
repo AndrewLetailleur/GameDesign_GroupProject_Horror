@@ -15,8 +15,8 @@ public class TestCode : MonoBehaviour {
 	void Update () {
 		if (Input.GetKeyDown (KeyCode.Mouse0)) {
 			SceneManager.LoadScene("GameOver");
-		} else if (Input.GetKeyDown (KeyCode.Mouse1)) {
+		}/* else if (Input.GetKeyDown (KeyCode.Mouse1)) {
 			SceneManager.LoadScene("TimeOut");
-		}
+		}*/
 	}
 }
